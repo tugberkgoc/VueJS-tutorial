@@ -9,7 +9,7 @@ Vue.use(VueResource)
  *
  * @type {string}
  */
-Vue.http.options.root = 'https://vuejs-http-6944d.firebaseio.com/data.json'
+Vue.http.options.root = 'https://vuejs-http-6944d.firebaseio.com/'
 
 Vue.http.interceptors.push((request, next) => {
   console.log(request)
