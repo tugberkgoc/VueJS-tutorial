@@ -1,6 +1,6 @@
-# VueJS Training
+# vue-update
 
-> This repository includes all the concepts of vue.
+> Vue Auth & more
 
 ## Build Setup
 
@@ -16,13 +16,3 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
-
-## About
-
-14) Adding Animations and Transitions
-
-15) Connecting to Servers via Http using Vue-Resource
-
-22) Using Axios instead of Vue-Resource
-
-## Will be updated. Be cool!
