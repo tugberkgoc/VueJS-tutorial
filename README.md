@@ -26,3 +26,5 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 22) Using Axios instead of Vue-Resource
 
 ## Will be updated. Be cool!
+
+https://medium.com/@selvaganesh93/how-node-js-middleware-works-d8e02a936113
